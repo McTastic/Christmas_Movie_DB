@@ -2,8 +2,6 @@
   "name": "cmdb",
   "version": "0.1.0",
   "private": false,
-  "PUBLIC_URL": "https://kmwine02-project03.herokuapp.com/",
-  "homepage": "https://kmwine02-project03.herokuapp.com/",
   "dependencies": {
     "react-icons": "^4.4.0",
     "react-rating-scale": "^1.1.2"
