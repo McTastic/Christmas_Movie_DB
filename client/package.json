@@ -1,5 +1,5 @@
 {
-  "name": "project03",
+  "name": "cmdb",
   "version": "0.1.0",
   "private": false,
   "proxy": "http://localhost:3001/",
