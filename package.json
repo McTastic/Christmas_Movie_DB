@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "private": false,
   "dependencies": {
-    "react-icons": "^4.4.0",
-    "react-rating-scale": "^1.1.2"
   },
   "scripts": {
     "start": "node server/server.js",
